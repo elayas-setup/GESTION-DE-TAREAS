@@ -1,0 +1,90 @@
+USUARIO: alvaro
+TAREA: vdgsdgds
+DESCRIPCION: sdfsdf
+PRIORIDAD: Alta
+ESTADO: Por Hacer
+FECHA DE INICIO: sdfsd
+HORA DE INICIO: asd
+FECHA FINAL: sdfs
+HORA FINAL: fsdf
+*******************************************
+USUARIO: hugo
+TAREA: TSO
+DESCRIPCION: proyecto de conexion
+PRIORIDAD: Alta
+ESTADO: Terminado
+FECHA DE INICIO: 14/12/24
+HORA DE INICIO: 13:00
+FECHA FINAL: 20/12/24
+HORA FINAL: 13:00
+*******************************************
+USUARIO: elias
+TAREA: Tso
+DESCRIPCION: conexionde maquinaria
+PRIORIDAD: Alta
+ESTADO: En proceso
+FECHA DE INICIO: 12/12/24
+HORA DE INICIO: 13:00
+FECHA FINAL: 20/12/24
+HORA FINAL: 13:00
+*******************************************
+USUARIO: mag
+TAREA: Programacion
+DESCRIPCION: por entregar el sabado
+PRIORIDAD: Alta
+ESTADO: Por Hacer
+FECHA DE INICIO: 13/12/24
+HORA DE INICIO: 13:00
+FECHA FINAL: 20/12/24
+HORA FINAL: 13:00
+*******************************************
+USUARIO: elias
+TAREA: TSO
+DESCRIPCION: entregar el viernes
+PRIORIDAD: Alta
+ESTADO: Terminado
+FECHA DE INICIO: 10/12/24
+HORA DE INICIO: 12:00
+FECHA FINAL: 20/12/24
+HORA FINAL: 12:00
+*******************************************
+USUARIO: manolito
+TAREA: Tso
+DESCRIPCION: maquinaria conexion
+PRIORIDAD: Media
+ESTADO: En proceso
+FECHA DE INICIO: 12/12/24
+HORA DE INICIO: 13:00
+FECHA FINAL: 24/12/24
+HORA FINAL: 12:00
+*******************************************
+USUARIO: lucas
+TAREA: programacion
+DESCRIPCION: con base de datos o archivos
+PRIORIDAD: Media
+ESTADO: En proceso
+FECHA DE INICIO: 12/12/24
+HORA DE INICIO: 13:00
+FECHA FINAL: 15/12/24
+HORA FINAL: 14:00
+*******************************************
+USUARIO: manolito
+TAREA: Base de dato
+DESCRIPCION: consultas anidadas
+PRIORIDAD: Media
+ESTADO: Por Hacer
+FECHA DE INICIO: 12/12/24
+HORA DE INICIO: 13:00
+FECHA FINAL: 15/12/24
+HORA FINAL: 14:00
+*******************************************
+USUARIO: manolito
+TAREA: cantar
+DESCRIPCION: musicas
+PRIORIDAD: Media
+ESTADO: Por Hacer
+FECHA DE INICIO: 12/12/24
+HORA DE INICIO: 13:00
+FECHA FINAL: 15/12/24
+HORA FINAL: 14:00
+*******************************************
